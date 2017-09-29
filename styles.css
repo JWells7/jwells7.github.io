@@ -1,7 +1,27 @@
-h1{
-  color: red;
-  font-weight: 600;
+
+h1.header{
+  color: white;
+  font-size: 40px;
+}
+h2 {
+  color: White;
+  font-size: 12px;
 }
 img {
-  width: 100px;
+  width: 200px;
+}
+body {
+  background-color: #820FD9;
+}
+li {
+  color: white;
+}
+p {
+  color: white;
+}
+p.aboutme{
+  color: white;
+}
+li.badgers{
+  color: red;
 }
