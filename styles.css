@@ -2,6 +2,7 @@
 h1.header{
   color: white;
   font-size: 40px;
+  margin: 0 10px 10px 0;
 }
 h2 {
   color: White;
@@ -12,6 +13,7 @@ img {
 }
 body {
   background-color: #820FD9;
+  background-size: cover;
 }
 li {
   color: white;
@@ -24,4 +26,10 @@ p.aboutme{
 }
 li.badgers{
   color: red;
+}
+div.heading{
+  border-style: solid;
+  border-color: black;
+  border-width: 1px;
+  padding: 200px 20px 20px 20px;
 }
