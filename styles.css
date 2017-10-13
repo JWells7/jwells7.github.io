@@ -59,6 +59,6 @@
 }
 
 .c3 {
-  background: url('cat.jpeg') no-repeat;
+  background: url(cat.jpeg) no-repeat;
   background-size:contain;
 }
