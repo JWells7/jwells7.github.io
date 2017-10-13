@@ -52,3 +52,9 @@
   background: url("cat.jpeg") no-repeat;
   background-size:contain;
 }
+
+.card {
+        margin: 0 auto; /* Added */
+        float: none; /* Added */
+        margin-bottom: 10px; /* Added */
+}
