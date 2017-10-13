@@ -53,8 +53,31 @@
   background-size:contain;
 }
 
+.c6 img {
+    max-height: 100%;
+    max-width: 100%;
+
+  }
+
+
+
+.c7 img {
+    max-height: 100%;
+    max-width: 100%;
+}
+
+.c8 img {
+    max-height: 100%;
+    max-width: 100%;
+}
+
 .card {
-        margin: 0 auto; /* Added */
-        float: none; /* Added */
-        margin-bottom: 10px; /* Added */
+  margin: 0 auto;
+  float: none;
+  margin-bottom: 10px;
+}
+
+.titleAU {
+  font-family: 'Roboto', sans-serif;
+  font-size: 50px
 }
